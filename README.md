@@ -1,4 +1,5 @@
-![My Banner](./assets/GithubBanner.png)
+![My Banner](https://i.postimg.cc/Wb4PMJpD/Github-Banner.png)
+
 
 <h1 align="center">Hi , I'm Riadul Islam Riad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -7,7 +8,8 @@
 
 <h3>About Me</h3>
 <hr>
-<img align="right" src="./assets/hollor_knight3.gif" width="200">
+<img align="right" src="https://i.postimg.cc/6qtBsjXJ/hollor-knight3.gif" width="200">
+
 
 <div>
 <p>
