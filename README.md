@@ -47,9 +47,9 @@ Hi, my name is <strong>Riadul Islam Riad</strong> .I am a <strong>MERN Stack Dev
 |---------------|:-----------:|--------------:|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riad-Zz&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=Riad-Zz&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /> | <img src="https://nirzak-streak-stats.vercel.app/?user=Riad-Zz&theme=react&hide_border=false" alt="GitHub Streak" /> |
 
-| Top Contributed Repo | GitHub Trophies |
-|--------------------|----------------|
-| <img src="https://github-contributor-stats.vercel.app/api?username=Riad-Zz&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /> | <img src="https://github-profile-trophy.vercel.app/?username=Riad-Zz&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> |
+| Top Contributed Repo |
+|--------------------|
+| <img src="https://github-contributor-stats.vercel.app/api?username=Riad-Zz&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /> |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riad-Zz)
 
