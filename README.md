@@ -23,11 +23,13 @@ Hi, my name is <strong>Riadul Islam Riad</strong> .I am a <strong>MERN Stack Dev
 ### Socials & Links
 <hr>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riadulislam.riad.7739) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riadul-islam-riad) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islamriad3242@gmail.com) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/__TenZzz__) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riadulislam.riad.7739)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riadul-islam-riad)
+[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/kazuha_zzz09)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islamriad3242@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/__TenZzz__)
 [![CodeChef](https://img.shields.io/badge/CodeChef-333333.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/riad_99)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/kazuha_zzz09)
 
 
 <br clear="right">
