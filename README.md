@@ -43,15 +43,28 @@ Hi, my name is <strong>Riadul Islam Riad</strong> .I am a <strong>MERN Stack Dev
 | Deployment & Hosting     | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&logoWidth=20) ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&logoWidth=20) |
 | Design & Productivity Tools | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&logoWidth=20) ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&logoWidth=20) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&logoWidth=20) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=20) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&logoWidth=20) ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&logoWidth=20) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&logoWidth=20) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=20) |
 
-<h3>Github Stats</h3>
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|---------------|:-----------:|--------------:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riad-Zz&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=Riad-Zz&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /> | <img src="https://nirzak-streak-stats.vercel.app/?user=Riad-Zz&theme=react&hide_border=false" alt="GitHub Streak" /> |
 
-| Top Contributed Repo |
-|--------------------|
-| <img src="https://github-contributor-stats.vercel.app/api?username=Riad-Zz&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /> |
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riad-Zz&theme=github_dark" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riad-Zz&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riad-Zz&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Riad-Zz&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riad-Zz)
 
