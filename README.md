@@ -39,7 +39,7 @@ Hi, my name is <strong>Riadul Islam Riad</strong> .I am a <strong>MERN Stack Dev
 </p>
  
 ```
-Click the image to watch my podcast about my journey, projects & learning experience.
+Click the image to watch my podcast about my journey, contests & learning experience.
 ```
 </div>
 
