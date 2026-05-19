@@ -1,4 +1,4 @@
-![My Banner](https://i.postimg.cc/Wb4PMJpD/Github-Banner.png)
+![My Banner](https://i.postimg.cc/qBQgyRg9/gitbanner.png)
 
 
 <h1 align="center">Hi , I'm Riadul Islam Riad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
