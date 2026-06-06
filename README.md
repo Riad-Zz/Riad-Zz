@@ -13,7 +13,7 @@
 
 <div>
 <p>
-Hi, my name is <strong>Riadul Islam Riad</strong> .I am a <strong>MERN Stack Developer</strong> building full-stack web applications using <strong>React, Node.js, Express, MongoDB</strong>, and modern tools like <strong>Tailwind CSS</strong> and <strong>DaisyUI</strong>. I enjoy creating intuitive frontends and exploring backend development, including <strong>JWT authentication</strong> and <strong>Firebase integration</strong>.I am eager to learn new technologies and apply them to build scalable, practical web applications that solve meaningful problems.
+Hi, my name is <strong>Riad</strong> .I am a <strong>MERN Stack Developer</strong> building full-stack web applications using <strong>React, Node.js, Express, MongoDB</strong>, and modern tools like <strong>Tailwind CSS</strong> and <strong>Shadcn</strong>. I enjoy creating intuitive frontends and exploring backend development, including <strong>JWT authentication</strong> and <strong>Firebase integration</strong>.I am eager to learn new technologies and apply them to build scalable, practical web applications that solve meaningful problems.
 </p>
 </div>
 
