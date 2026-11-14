@@ -36,6 +36,9 @@ Hi, my name is <strong>Riad</strong> .I am a <strong>MERN Stack Developer</stron
   <a href="https://www.youtube.com/watch?v=U-qcfZMNrxw">
     <img src="https://i.postimg.cc/Gt10Hszr/Phitron.avif" width="400"/>
   </a>
+   <a href="https://www.youtube.com/live/7PzpLmCR5sY?si=VEWZfBhHM0ObHuya">
+    <img src="https://i.postimg.cc/g0kyVzxt/Phitron-Live.jpg" width="400"/>
+  </a>
 </p>
  
 ```
